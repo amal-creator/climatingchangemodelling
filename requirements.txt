@@ -7,7 +7,9 @@ wordcloud
 nltk
 xgboost
 flask
-
+python-box==6.0.2
+ensure==1.0.2
+pyYAML
 
 
 
